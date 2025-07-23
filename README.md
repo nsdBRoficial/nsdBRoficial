@@ -35,7 +35,5 @@ Aqui estão alguns dos modelos de projeto que estruturei e desenvolvi como consu
 ---
 ### **Status**
 
-(Para exibir suas estatísticas, basta substituir `SEU-USERNAME-DO-GITHUB` pelo seu nome de usuário nos dois links abaixo.)
-
 [![Estatísticas do GitHub de Douglas](https://github-readme-stats.vercel.app/api?username=nsdBRoficial&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Linguagens Mais Usadas por Douglas](https://github-readme-stats.vercel.app/api/top-langs/?username=nsdBRoficial&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
