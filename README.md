@@ -38,17 +38,15 @@ I am a **Strategic Consultant and Project Manager** fully focused on the **Web3*
   <img src="https://img.shields.io/badge/Scrum-0077B5?style=for-the-badge" alt="Scrum"/>
 </p>
 
----
+--- nsdBRoficial
 
 ### 📊 Minhas Estatísticas | My Stats
 
-(Para exibir suas estatísticas, basta substituir `SEU-USERNAME-DO-GITHUB` pelo seu nome de usuário nos dois links abaixo.)
-
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SEU-USERNAME-DO-GITHUB&show_icons=true&theme=vision-friendly-dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nsdBRoficial&show_icons=true&theme=vision-friendly-dark" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USERNAME-DO-GITHUB&layout=compact&theme=vision-friendly-dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsdBRoficial&layout=compact&theme=vision-friendly-dark" />
   </a>
 </p>
