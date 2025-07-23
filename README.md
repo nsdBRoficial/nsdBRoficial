@@ -26,19 +26,41 @@ I am a **Strategic Consultant and Project Manager** fully focused on the **Web3*
 
 ---
 
-### 🛠️ Linguagens e Ferramentas | Languages & Tools
 
+---
+
+### 🛠️ Tecnologias e Metodologias | Technologies & Methodologies
+
+**Smart Contracts & Blockchain**
 <p align="center">
   <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
   <img src="https://img.shields.io/badge/Stellar-000000?style=for-the-badge&logo=stellar&logoColor=white" alt="Stellar"/>
-  <img src="https://img.shields.io/badge/Agile-FF9900?style=for-the-badge" alt="Agile"/>
-  <img src="https://img.shields.io/badge/Scrum-0077B5?style=for-the-badge" alt="Scrum"/>
 </p>
 
---- nsdBRoficial
+**Front-End**
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+**Back-End**
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+</p>
+
+**Gestão, Metodologias e Ferramentas | Management, Methodologies & Tools**
+<p align="center">
+  <img src="https://img.shields.io/badge/Agile-FF9900?style=for-the-badge" alt="Agile"/>
+  <img src="https://img.shields.io/badge/Scrum-0077B5?style=for-the-badge" alt="Scrum"/>
+  <img src="https://img.shields.io/badge/IT_Governance-008080?style=for-the-badge" alt="IT Governance"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+</p>
 
 ### 📊 Minhas Estatísticas | My Stats
 
