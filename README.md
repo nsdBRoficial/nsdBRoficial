@@ -1,10 +1,18 @@
 <div align="center">
-  <h1> Olá, eu sou o Douglas Alexandre! | Hi, I'm Douglas Alexandre! </h1>
+  <h1> Hi, I'm Douglas Alexandre! </h1>
 </div>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/douglasgomesdasilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
+
+---
+
+### About Me
+I am a **Strategic Consultant and Project Manager** fully focused on the **Web3** ecosystem. My journey began with a solid foundation in Systems Analysis, but it was a deep dive into Blockchain and IT Governance that defined my career. Today, my specialty is acting as a bridge between the business vision and technical execution, transforming innovative ideas into functional, secure, and profitable blockchain solutions.
+
+- 🔭 Currently focused on projects involving **Real World Asset (RWA) Tokenization** and **Decentralized Finance (DeFi)**.
+- 🌱 My goal is to help companies navigate the complexity of Web3, from business model and tokenomics conception to development management and launch.
+- 💬 Ask me about: Web3 Project Management, Business Strategy for Tokenization, and IT Governance.
 
 ---
 
@@ -14,18 +22,6 @@ Sou um **Consultor Estratégico e Gestor de Projetos** com foco total no ecossis
 - 🔭 Atualmente focado em projetos de **Tokenização de Ativos do Mundo Real (RWA)** e **Finanças Descentralizadas (DeFi)**.
 - 🌱 Meu objetivo é ajudar empresas a navegar pela complexidade da Web3, desde a concepção do modelo de negócio e 'tokenomics' até a gestão do desenvolvimento e lançamento.
 - 💬 Pergunte-me sobre: Gestão de Projetos Web3, Estratégia de Negócios para Tokenização e Governança de TI.
-
----
-
-### 🇬🇧 About Me
-I am a **Strategic Consultant and Project Manager** fully focused on the **Web3** ecosystem. My journey began with a solid foundation in Systems Analysis, but it was a deep dive into Blockchain and IT Governance that defined my career. Today, my specialty is acting as a bridge between the business vision and technical execution, transforming innovative ideas into functional, secure, and profitable blockchain solutions.
-
-- 🔭 Currently focused on projects involving **Real World Asset (RWA) Tokenization** and **Decentralized Finance (DeFi)**.
-- 🌱 My goal is to help companies navigate the complexity of Web3, from business model and tokenomics conception to development management and launch.
-- 💬 Ask me about: Web3 Project Management, Business Strategy for Tokenization, and IT Governance.
-
----
-
 
 ---
 
