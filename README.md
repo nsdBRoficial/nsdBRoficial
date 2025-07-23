@@ -24,6 +24,29 @@ Sou um **Consultor Estratégico e Gestor de Projetos** com foco total no ecossis
 - 💬 Pergunte-me sobre: Gestão de Projetos Web3, Estratégia de Negócios para Tokenização e Governança de TI.
 
 ---
+---
+### 🧠 Soft Skills
+
+**English**
+<p align="center">
+  <img src="https://img.shields.io/badge/Leadership-0077B5?style=for-the-badge" alt="Leadership"/>
+  <img src="https://img.shields.io/badge/Communication-00A86B?style=for-the-badge" alt="Communication"/>
+  <img src="https://img.shields.io/badge/Strategic_Thinking-8A2BE2?style=for-the-badge" alt="Strategic Thinking"/>
+  <img src="https://img.shields.io/badge/Problem--Solving-D22B2B?style=for-the-badge" alt="Problem-Solving"/>
+  <img src="https://img.shields.io/badge/Emotional_Intelligence-FFD700?style=for-the-badge&logoColor=black" alt="Emotional Intelligence"/>
+  <img src="https://img.shields.io/badge/Stakeholder_Management-4682B4?style=for-the-badge" alt="Stakeholder Management"/>
+</p>
+
+**Português**
+<p align="center">
+  <img src="https://img.shields.io/badge/Liderança-0077B5?style=for-the-badge" alt="Liderança"/>
+  <img src="https://img.shields.io/badge/Comunicação-00A86B?style=for-the-badge" alt="Comunicação"/>
+  <img src="https://img.shields.io/badge/Pensamento_Estratégico-8A2BE2?style=for-the-badge" alt="Pensamento Estratégico"/>
+  <img src="https://img.shields.io/badge/Resolução_de_Problemas-D22B2B?style=for-the-badge" alt="Resolução de Problemas"/>
+  <img src="https://img.shields.io/badge/Inteligência_Emocional-FFD700?style=for-the-badge&logoColor=black" alt="Inteligência Emocional"/>
+  <img src="https://img.shields.io/badge/Gestão_de_Stakeholders-4682B4?style=for-the-badge" alt="Gestão de Stakeholders"/>
+</p>
+
 
 ### 🛠️ Tecnologias e Metodologias | Technologies & Methodologies
 
@@ -56,6 +79,8 @@ Sou um **Consultor Estratégico e Gestor de Projetos** com foco total no ecossis
   <img src="https://img.shields.io/badge/IT_Governance-008080?style=for-the-badge" alt="IT Governance"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
+  <img src="https://img.shields.io/badge/Runrun.it-F46524?style=for-the-badge" alt="Runrun.it"/>
 </p>
 
 ### 📊 Minhas Estatísticas | My Stats
