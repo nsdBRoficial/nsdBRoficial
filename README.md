@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Hi, I'm Douglas Alexandre! </h1>
+  <h1> I'm Douglas Alexandre! </h1>
 </div>
 <p align="center">
   <a href="https://www.linkedin.com/in/douglasgomesdasilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
